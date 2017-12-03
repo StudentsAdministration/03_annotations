@@ -25,3 +25,12 @@ __Later__
 
 * @Repository
 * @Autowired
+
+
+
+## Model
+````    
+  @RequestParam("id") int id
+  
+  @ModelAttribute Course course
+````   
