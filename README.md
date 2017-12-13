@@ -34,3 +34,7 @@ __Later__
   
   @ModelAttribute Course course
 ````   
+
+
+
+_<div align="right">&copy; clbo@kea.dk</div>_
